@@ -1,0 +1,10 @@
+tellraw @s [{"text": "====<Essential数据包帮助菜单>====","bold": true,"color": "gold"}]
+tellraw @s [{"text": "===Spawn模块===","bold": true,"color": "red"}]
+tellraw @s [{"text": "/trigger spawn               回到出生点","bold": true,"color": "white"}]
+tellraw @s [{"text": "===Tp模块===","bold": true,"color": "red"}]
+tellraw @s [{"text": "/trigger rtp                   随机传送","bold": true,"color": "white"}]
+tellraw @s [{"text": "/trigger tpa set <uid>         向指定UID的玩家发送传送请求","bold": true,"color": "white"}]
+tellraw @s [{"text": "/trigger tpaccept              接受传送请求","bold": true,"color": "white"}]
+tellraw @s [{"text": "===Eco模块===","bold": true,"color": "red"}]
+tellraw @s [{"text": "敬请期待","bold": true,"color": "white"}]
+scoreboard players reset @s ess_help

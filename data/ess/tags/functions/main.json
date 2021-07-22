@@ -1,6 +1,8 @@
 {
     "replace": false,
     "values": [
-        "ess:spawn/tick"
+        "ess:spawn/tick",
+        "ess:uid/tick",
+        "ess:help/tick"
     ]
 }

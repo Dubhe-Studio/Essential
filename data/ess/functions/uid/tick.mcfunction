@@ -1,0 +1,1 @@
+execute as @a unless entity @s[scores={ess_uid=-2147483648..2147483647}] run function ess:uid/get
