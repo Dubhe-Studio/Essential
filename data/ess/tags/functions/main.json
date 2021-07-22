@@ -1,0 +1,6 @@
+{
+    "replace": false,
+    "values": [
+        "ess:spawn/tick"
+    ]
+}
