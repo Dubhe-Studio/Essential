@@ -1,4 +1,5 @@
 # Essential
+![https://img.shields.io/badge/SupportMC-1.17.1-yellow]()
  Essential for Minecraft
 
 ## 已完成模块
