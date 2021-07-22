@@ -3,6 +3,7 @@
     "values": [
         "ess:spawn/tick",
         "ess:uid/tick",
+        "ess:tp/tick",
         "ess:help/tick"
     ]
 }
